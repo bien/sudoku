@@ -1,0 +1,4 @@
+*.sd are boards to solve.  X means that the space is empty.
+
+python solve.py 1.sd
+./solve 1.sd
